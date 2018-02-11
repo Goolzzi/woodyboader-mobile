@@ -1,0 +1,11 @@
+woodyboater.apk
+node_modules/
+.expo/
+npm-debug.*
+awskeys
+TODO.txt
+functions/yarn.lock
+functions/firebase-debug.log
+yarn-error.log
+.vscode/
+package-lock.json
